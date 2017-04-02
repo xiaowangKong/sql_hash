@@ -1,0 +1,2 @@
+数据集		bin_num		mem_size_B	partition_size		buffer_size	时间		mem%
+pg_message	10万		30M		1M			100M		66.0694s	1.9          (mem不能上40M，否则飞起来)
